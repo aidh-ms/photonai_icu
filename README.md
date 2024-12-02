@@ -3,17 +3,6 @@
 ![GitHub](https://img.shields.io/github/license/wwu-mmll/photonai_module_template)
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=wwu-mmll_photonai_module_template&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=wwu-mmll_photonai_module_template)
 
-# How to use this template
-This repository is a quick start template for new photonai modules. To get started simply follow these steps:
-1. Klick "Use this template" button
-2. Fill in details for the new photonai module
-3. Wait for the repository to be created
-4. Wait for the Github Actions to run once
-5. As soon as the "✅ Ready to clone and code." commit appears in your repository you are ready to start coding
-6. (optional) Remove "rename_project.yml" workflow from .github/workflows
-7. (optional) Remove "rename_project.sh" from .github
-8. Remove this how to section from readme
-
 ## Included features
 - [X] Code testing and coverage calculation (if coveralls secret **COVERALLS_REPO_TOKEN** is set)
 - [X] Continous Integration for testing and documentation updates based on Github Actions.
