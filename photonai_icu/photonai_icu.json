@@ -1,8 +1,4 @@
 {
-  "DummyTransformer": [
-    "photonai_icu.dummy.DummyTransformer",
-    "Transformer"
-  ],
   "ResamplerTransformer": [
     "photonai_icu.resampler.ResamplerTransformer",
     "Transformer"
