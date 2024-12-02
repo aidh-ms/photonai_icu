@@ -4,3 +4,5 @@
 photonai_icu/registered
 
 *.pyc
+
+venv/
