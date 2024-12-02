@@ -59,6 +59,7 @@ class ResamplerTransformer(BaseEstimator, TransformerMixin):
             X.groupby(self.groupby)
             .resample(self.frequency)
             .agg(self.method)
+            .reset_index(self.groupby, drop=True)
         )
 
         if self.default_value is None:
