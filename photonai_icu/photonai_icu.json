@@ -1,6 +1,6 @@
 {
   "ResamplerTransformer": [
-    "photonai_icu.resampler.ResamplerTransformer",
+    "photonai_icu.transformer.ResamplerTransformer",
     "Transformer"
   ]
 }
